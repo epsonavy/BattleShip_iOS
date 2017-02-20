@@ -1,14 +1,23 @@
 BattleShip
 =======
 
+Name: Pei Lian Liu
+
+Email: epsonavy@yahoo.com
+
+Group/Individual: Individual Work
+
 Time Consumption: 72 hours
 
 
 My project was successful run on Xcode 8 with following setting:
 
+Select the project first:
+
+
 In Building Settings: 
 
-- Swift 2.3
+- Use Legacy Swift Language Version : Yes (Because Lecture was using Swift 2.3)
 
 
 Notes
